@@ -7,7 +7,7 @@
 - deposite
 - warning if the money input is not a number
 
-### additional features
+### Additional features
 - unique number checkers with my own algorithm
 - citizen property in bank account class
 - exit menu
